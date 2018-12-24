@@ -3,10 +3,10 @@ layout: post
 title: "「语法」10分钟掌握github"
 subtitle: "Learning github in 10 min"
 author: "Lynn"
-header-img: "img/post-bg-halting.jpg"
+header-img: "img/blog-bg/2018-12-10-github-note.jpg"
 header-mask: 0.3
 tags:
-  - 语法
+  - 语法基础
   - 待续
 ---
 
