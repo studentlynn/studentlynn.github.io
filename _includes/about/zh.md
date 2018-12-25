@@ -38,3 +38,6 @@ linkin
 - 转载 原创
 - 待续 已完成
 
+### markdown IDE
+- WIN 10 typora-setup-x64
+- MAC MACDOWN
