@@ -15,15 +15,18 @@ linkin
 我的邮箱 justforjob999@gmail.com
 
 ### Catalog
-- 技术
-    - **前沿技术 大数据 人工智能**
-    - **基础技术 SQL PYTHON Linux**
-        - 语法基础
-    - 展示工具/资源
+- tech 技术
+    - **fore-tech 前沿技术 大数据 人工智能**
+    - **base-tech 基础技术 SQL PYTHON Linux**
+        - base-tech 语法基础
+        - Leecode 刷题
+    - resource 展示工具/资源
         - 可视化
         - 博客
-- 写作
-- 读书
+- writing 写作
+    - writing 英语写作
+    - IELTS 考试
+- reading 读书
     - **专业课**
     - **经济/理财**
     - **思维逻辑训练**
@@ -31,8 +34,9 @@ linkin
     - 时事节目
     - 社会、人类、心理
     - 各国文化
-- 金融
-- 生活
+- finance 金融
+- life 生活
+    - 创业
 
 ### 文章状态
 - 转载 原创

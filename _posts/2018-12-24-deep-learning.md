@@ -6,7 +6,7 @@ author: "Lynn"
 header-img: "img/blog-bg/2018-12-24-deep-learning.jpg"
 header-mask: 0.3
 tags:
-  - 前沿技术
+  - fore-tech 前沿技术
   - 待续
 ---
 

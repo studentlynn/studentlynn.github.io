@@ -6,7 +6,7 @@ author: "Lynn"
 header-img: "img/blog-bg/2018-12-10-github-note.jpg"
 header-mask: 0.3
 tags:
-  - 语法基础
+  - base-tech 语法基础
   - 待续
 ---
 
