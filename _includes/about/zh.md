@@ -23,6 +23,8 @@ linkin
     - resource 展示工具/资源
         - 可视化
         - 博客
+    - applying 应用
+        - 风控
 - writing 写作
     - writing 英语写作
     - IELTS 考试
